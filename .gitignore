@@ -1,0 +1,18 @@
+# Entorno virtual
+pycuda-env/
+
+# Carpeta de migrations
+migrations/
+
+# Archivos de __pycache__
+__pycache__/
+
+# Archivos de caché
+*.pyc
+
+# Archivos de caché de vscode
+.vscode/
+
+# base de datos
+*.sqlite3
+
