@@ -136,8 +136,8 @@ class RsaEncryptGpu():
 
             return {
                 'ciphertext': encoded_ciphertext,
-                'd': d,
-                'n': n
+                'd': str(d),
+                'n': str(n)
             }
         
         else:
